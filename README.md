@@ -36,4 +36,4 @@ cd /home/user/.ssh/
 ls
 cat id_rsa.pub
 ```
-Copy contents of id_rsa.pub and put into authenticator (this case for github).
+Copy contents of id_rsa.pub and put into authenticator. In github it is under settings -> SSH and GPG Keys -> New SSH Key. 
