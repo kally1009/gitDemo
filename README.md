@@ -2,7 +2,8 @@
 ---
 #### https://github.com/git-guides/install-git
 
-
+#### https://gitlab.cs.usu.edu/erik.falor/fa22-cs1440-lecturenotes/-/blob/master/Using_Git/Repository_Setup.md
+Good resource for git
 
 - Windows Install
 
