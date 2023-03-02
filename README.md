@@ -1,4 +1,4 @@
-DISCORD: https://discord.gg/aVBvYdKb
+
 
 ## Installing git
 ---
