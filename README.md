@@ -1,3 +1,5 @@
+DISCORD: https://discord.gg/aVBvYdKb
+
 ## Installing git
 ---
 #### https://github.com/git-guides/install-git
